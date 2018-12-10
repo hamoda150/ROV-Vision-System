@@ -7,21 +7,15 @@ https://www.youtube.com/watch?v=MYbGCYb51sc
 
 # Text Detection Based on Tesseract OCR
 
-Aircraft A
 <img src="images/A.png" width="300">
 
-Aircraft B
 <img src="images/B.png" width="300">
 
-Aircraft C
 <img src="images/C.png" width="300">
 
-Aircraft D
 <img src="images/D.png" width="300">
 
-Aircraft E
 <img src="images/E.png" width="300">
 
-Aircraft F
 <img src="images/F.png" width="300">
 
