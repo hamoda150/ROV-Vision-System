@@ -1,5 +1,5 @@
 # ROV-Vision-System
-Vision system for ROV MATE competition. This system uses shape, color and text Detection of aircrafts' tails to help identyfing aircraft's model after crash accidents.
+Vision system for ROV MATE competition. This system uses shape, color and text Detection of aircrafts' tails to help identifying aircrafts model after crash accidents.
 
 # Color Detection
 Video demo
